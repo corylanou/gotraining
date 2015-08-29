@@ -3,7 +3,7 @@
 
 // https://docs.google.com/document/d/1CxgUBPlx9iJzkz9JWkb6tIpTe5q32QDmz8l0BouG0Cw/view
 
-// http://play.golang.org/p/931Cw6uzsn
+// http://play.golang.org/p/_uK8EYlsd0
 
 // go build -gcflags -m
 

@@ -29,7 +29,7 @@ http://www.goinggo.net/2014/12/using-pointers-in-go.html
 
 ## Advanced Code Review
 
-[Stack vs Heap](advanced/example1/example1.go) ([Go Playground](http://play.golang.org/p/931Cw6uzsn))
+[Stack vs Heap](advanced/example1/example1.go) ([Go Playground](http://play.golang.org/p/_uK8EYlsd0))
 
 ## Exercises
 
@@ -49,4 +49,4 @@ Declare a struct type and create a value of this type. Declare a function that c
 [Template](exercises/template2/template2.go) ([Go Playground](http://play.golang.org/p/b6-FNFOToO)) | 
 [Answer](exercises/exercise2/exercise2.go) ([Go Playground](http://play.golang.org/p/oEtveMoO1s))
 ___
-All material is licensed under the [GNU Free Documentation License](https://github.com/gobridge/gotraining/blob/master/LICENSE).
+All material is licensed under the [GNU Free Documentation License](https://github.com/ArdanStudios/gotraining/blob/master/LICENSE).

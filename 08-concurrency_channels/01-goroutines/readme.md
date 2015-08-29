@@ -29,11 +29,11 @@ http://www.goinggo.net/2014/01/concurrency-goroutines-and-gomaxprocs.html
 
 ## Code Review
 
-[Goroutines and concurrency](example1/example1.go) ([Go Playground](http://play.golang.org/p/LI0TEB6PMf))
+[Goroutines and concurrency](example1/example1.go) ([Go Playground](http://play.golang.org/p/RFwEqHPt7P))
 
-[Goroutine time slicing](example2/example2.go) ([Go Playground](https://play.golang.org/p/AzDUqwkM58))
+[Goroutine time slicing](example2/example2.go) ([Go Playground](http://play.golang.org/p/mEcWhL14ha))
 
-[Goroutines and parallelism](example3/example3.go) ([Go Playground](http://play.golang.org/p/cqsHoPD30n))
+[Goroutines and parallelism](example3/example3.go) ([Go Playground](http://play.golang.org/p/vT23eEJxJ1))
 
 ## Exercises
 
@@ -46,4 +46,4 @@ http://www.goinggo.net/2014/01/concurrency-goroutines-and-gomaxprocs.html
 [Template](exercises/template1/template1.go) ([Go Playground](http://play.golang.org/p/H-h1cbBW3B)) | 
 [Answer](exercises/exercise1/exercise1.go) ([Go Playground](http://play.golang.org/p/mB4QslSNoA))
 ___
-All material is licensed under the [GNU Free Documentation License](https://github.com/gobridge/gotraining/blob/master/LICENSE).
+All material is licensed under the [GNU Free Documentation License](https://github.com/ArdanStudios/gotraining/blob/master/LICENSE).
