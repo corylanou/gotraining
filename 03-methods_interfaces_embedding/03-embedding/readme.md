@@ -16,13 +16,13 @@ http://www.goinggo.net/2014/05/methods-interfaces-and-embedded-types.html
 
 ## Code Review
 
-[Declaring Fields](example1/example1.go) ([Go Playground](https://play.golang.org/p/e5O_Dx5VpM))
+[Declaring Fields](example1/example1.go) ([Go Playground](https://play.golang.org/p/Bweb5f-xdM))
 
-[Embedding types](example2/example2.go) ([Go Playground](https://play.golang.org/p/UkrDXkk-Ch))
+[Embedding types](example2/example2.go) ([Go Playground](https://play.golang.org/p/3bTo41YmK9))
 
-[Embedded types and interfaces](example3/example3.go) ([Go Playground](https://play.golang.org/p/BgEoThS7u9))
+[Embedded types and interfaces](example3/example3.go) ([Go Playground](https://play.golang.org/p/hzfy_3XUJB))
 
-[Outer and inner type interface implementations](example4/example4.go) ([Go Playground](https://play.golang.org/p/jfOfrRMPZR))
+[Outer and inner type interface implementations](example4/example4.go) ([Go Playground](https://play.golang.org/p/KU2tRviRcl))
 
 ## Exercises
 
@@ -33,4 +33,4 @@ Copy the code from the template. Declare a new type called hockey which embeds t
 [Template](exercises/template1/template1.go) ([Go Playground](http://play.golang.org/p/c9Qrsq8QFe)) | 
 [Answer](exercises/exercise1/exercise1.go) ([Go Playground](https://play.golang.org/p/4uJObo_ItN))
 ___
-All material is licensed under the [GNU Free Documentation License](https://github.com/gobridge/gotraining/blob/master/LICENSE).
+All material is licensed under the [GNU Free Documentation License](https://github.com/ArdanStudios/gotraining/blob/master/LICENSE).
