@@ -170,6 +170,6 @@ http://www.goinggo.net/2015/02/scheduler-tracing-in-go.html
 
 ## Code Review
 
-[Scheduler Stats](godebug.go) ([Go Playground](http://play.golang.org/p/sKLLsUa5hH))
+[Scheduler Stats](godebug.go) ([Go Playground](https://play.golang.org/p/j5fkd7UgGu))
 ___
 All material is licensed under the [GNU Free Documentation License](https://github.com/gobridge/gotraining/blob/master/LICENSE).

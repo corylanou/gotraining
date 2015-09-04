@@ -15,8 +15,8 @@ http://www.goinggo.net/2015/01/stack-traces-in-go.html
 
 ## Code Review
 
-[Review Stack Trace](example1/example1.go) ([Go Playground](http://play.golang.org/p/A8yp-bzj1H))
+[Review Stack Trace](example1/example1.go) ([Go Playground](https://play.golang.org/p/ur6IPVCo9l))
 
-[Packing](example2/example2.go) ([Go Playground](http://play.golang.org/p/SLOEngNewm))
+[Packing](example2/example2.go) ([Go Playground](https://play.golang.org/p/S5ukG0_hXt))
 ___
 All material is licensed under the [GNU Free Documentation License](https://github.com/ArdanStudios/gotraining/blob/master/LICENSE).
