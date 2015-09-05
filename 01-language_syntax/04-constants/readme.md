@@ -34,4 +34,4 @@ http://www.goinggo.net/2014/04/introduction-to-numeric-constants-in-go.html
 [Template](exercises/template1/template1.go) ([Go Playground](http://play.golang.org/p/qG3-9yn5_6)) | 
 [Answer](exercises/exercise1/exercise1.go) ([Go Playground](http://play.golang.org/p/d2gkKxEftw))
 ___
-All material is licensed under the [GNU Free Documentation License](https://github.com/gobridge/gotraining/blob/master/LICENSE).
+All material is licensed under the [Apache License Version 2.0, January 2004](http://www.apache.org/licenses/LICENSE-2.0).

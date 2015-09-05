@@ -36,4 +36,4 @@ https://software.intel.com/en-us/blogs/2014/05/10/debugging-performance-issues-i
 
 [Example Test](example4/handlers/handlers_example_test.go)
 ___
-All material is licensed under the [GNU Free Documentation License](https://github.com/gobridge/gotraining/blob/master/LICENSE).
+All material is licensed under the [Apache License Version 2.0, January 2004](http://www.apache.org/licenses/LICENSE-2.0).

@@ -33,4 +33,4 @@ Copy the code from the template. Declare a new type called hockey which embeds t
 [Template](exercises/template1/template1.go) ([Go Playground](http://play.golang.org/p/c9Qrsq8QFe)) | 
 [Answer](exercises/exercise1/exercise1.go) ([Go Playground](https://play.golang.org/p/4uJObo_ItN))
 ___
-All material is licensed under the [GNU Free Documentation License](https://github.com/gobridge/gotraining/blob/master/LICENSE).
+All material is licensed under the [Apache License Version 2.0, January 2004](http://www.apache.org/licenses/LICENSE-2.0).

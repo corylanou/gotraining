@@ -18,4 +18,4 @@ On this day we continue go deeper into Go. We learn about concurrency patterns, 
 #### HTTP
 [HTTP](../13-http/readme.md)
 ___
-All material is licensed under the [GNU Free Documentation License](https://github.com/gobridge/gotraining/blob/master/LICENSE).
+All material is licensed under the [Apache License Version 2.0, January 2004](http://www.apache.org/licenses/LICENSE-2.0).

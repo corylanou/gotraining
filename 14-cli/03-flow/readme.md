@@ -26,4 +26,4 @@ the tasks would run regardless of whether the previous tasks failed.
 
 [Setting exit status](example1/parent.go)
 ___
-All material is licensed under the [GNU Free Documentation License](https://github.com/gobridge/gotraining/blob/master/LICENSE).
+All material is licensed under the [Apache License Version 2.0, January 2004](http://www.apache.org/licenses/LICENSE-2.0).

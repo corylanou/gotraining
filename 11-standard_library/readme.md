@@ -18,4 +18,4 @@ The Go standard library is a set of core packages that enhance and extend the la
 
 [Writers/Readers](../11-standard_library/03-writers_readers/readme.md)
 ___
-All material is licensed under the [GNU Free Documentation License](https://github.com/gobridge/gotraining/blob/master/LICENSE).
+All material is licensed under the [Apache License Version 2.0, January 2004](http://www.apache.org/licenses/LICENSE-2.0).

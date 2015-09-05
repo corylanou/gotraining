@@ -26,4 +26,4 @@ Setup a new program to use the log package. Set the Prefix to your first name an
 [Template](exercises/template1/template1.go) ([Go Playground](http://play.golang.org/p/9eVWni05Ma)) | 
 [Answer](exercises/exercise1/exercise1.go) ([Go Playground](http://play.golang.org/p/1-l_QmaSvy))
 ___
-All material is licensed under the [GNU Free Documentation License](https://github.com/gobridge/gotraining/blob/master/LICENSE).
+All material is licensed under the [Apache License Version 2.0, January 2004](http://www.apache.org/licenses/LICENSE-2.0).

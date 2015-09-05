@@ -44,4 +44,4 @@ Write a program that uses a buffered channel to maintain a buffer of four string
 [Template](exercises/template2/template2.go) ([Go Playground](http://play.golang.org/p/vc6c1-M2EB)) | 
 [Answer](exercises/exercise2/exercise2.go) ([Go Playground](https://play.golang.org/p/SL-z0COxsy))
 ___
-All material is licensed under the [GNU Free Documentation License](https://github.com/gobridge/gotraining/blob/master/LICENSE).
+All material is licensed under the [Apache License Version 2.0, January 2004](http://www.apache.org/licenses/LICENSE-2.0).

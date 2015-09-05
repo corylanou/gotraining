@@ -16,4 +16,4 @@ I may be biased, but I truly believe Go is an amazing language. It balances the 
 
 #### [Next Slide](slide2.md)
 ___
-All material is licensed under the [GNU Free Documentation License](https://github.com/gobridge/gotraining/blob/master/LICENSE).
+All material is licensed under the [Apache License Version 2.0, January 2004](http://www.apache.org/licenses/LICENSE-2.0).

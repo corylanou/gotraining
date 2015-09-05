@@ -39,4 +39,4 @@ http://www.goinggo.net/2013/08/organizing-code-to-support-go-get.html
 [Template](exercises/template1) | 
 [Answer](exercises/exercise1)
 ___
-All material is licensed under the [GNU Free Documentation License](https://github.com/gobridge/gotraining/blob/master/LICENSE).
+All material is licensed under the [Apache License Version 2.0, January 2004](http://www.apache.org/licenses/LICENSE-2.0).

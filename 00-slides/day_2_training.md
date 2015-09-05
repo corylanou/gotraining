@@ -20,4 +20,4 @@ On this day we dive deeper into Go. We learn about packaging, exporting, using p
 [Race Conditions](../08-concurrency_channels/02-race_conditions/readme.md) | 
 [Channels](../08-concurrency_channels/03-channels/readme.md)
 ___
-All material is licensed under the [GNU Free Documentation License](https://github.com/gobridge/gotraining/blob/master/LICENSE).
+All material is licensed under the [Apache License Version 2.0, January 2004](http://www.apache.org/licenses/LICENSE-2.0).

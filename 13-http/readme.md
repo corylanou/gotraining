@@ -39,4 +39,4 @@ Sample code that provides best practices for building a RESTful API in Go. It le
 
 TBD
 ___
-All material is licensed under the [GNU Free Documentation License](https://github.com/gobridge/gotraining/blob/master/LICENSE).
+All material is licensed under the [Apache License Version 2.0, January 2004](http://www.apache.org/licenses/LICENSE-2.0).

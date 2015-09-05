@@ -74,4 +74,4 @@ https://godoc.org/rsc.io/pprof_mac_fix
 
 [HTTP Service](helloHTTP.go) ([Go Playground](http://play.golang.org/p/c44Q5OiX5z))
 ___
-All material is licensed under the [GNU Free Documentation License](https://github.com/gobridge/gotraining/blob/master/LICENSE).
+All material is licensed under the [Apache License Version 2.0, January 2004](http://www.apache.org/licenses/LICENSE-2.0).

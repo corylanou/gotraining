@@ -21,4 +21,4 @@ On this day we take our initial tour of the language. We learn about variables, 
 [Interfaces](../03-methods_interfaces_embedding/02-interfaces/readme.md) | 
 [Embedding](../03-methods_interfaces_embedding/03-embedding/readme.md)
 ___
-All material is licensed under the [GNU Free Documentation License](https://github.com/gobridge/gotraining/blob/master/LICENSE).
+All material is licensed under the [Apache License Version 2.0, January 2004](http://www.apache.org/licenses/LICENSE-2.0).

@@ -47,4 +47,4 @@ Create a custom error type called appError that contains three fields, Err error
 [Template](exercises/template2/template2.go) ([Go Playground](http://play.golang.org/p/x6UimVQMMQ)) | 
 [Answer](exercises/exercise2/exercise2.go) ([Go Playground](https://play.golang.org/p/rLCuGVzwy4))
 ___
-All material is licensed under the [GNU Free Documentation License](https://github.com/gobridge/gotraining/blob/master/LICENSE).
+All material is licensed under the [Apache License Version 2.0, January 2004](http://www.apache.org/licenses/LICENSE-2.0).

@@ -31,4 +31,4 @@ http://www.goinggo.net/2013/08/gustavos-ieee-754-brain-teaser.html
 [Template](exercises/template1/template1.go) ([Go Playground](https://play.golang.org/p/1xUWjHMB3I)) | 
 [Answer](exercises/exercise1/exercise1.go) ([Go Playground](https://play.golang.org/p/d2M0Q3mRnd))
 ___
-All material is licensed under the [GNU Free Documentation License](https://github.com/gobridge/gotraining/blob/master/LICENSE).
+All material is licensed under the [Apache License Version 2.0, January 2004](http://www.apache.org/licenses/LICENSE-2.0).

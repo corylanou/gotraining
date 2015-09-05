@@ -32,4 +32,4 @@ Go is a strict type safe language so typed values must be explicitly converted f
 [Template](exercises/template1/template1.go) ([Go Playground](https://play.golang.org/p/-WjYGqauiY)) | 
 [Answer](exercises/exercise1/exercise1.go) ([Go Playground](https://play.golang.org/p/KIdESKQc8C))
 ___
-All material is licensed under the [GNU Free Documentation License](https://github.com/gobridge/gotraining/blob/master/LICENSE).
+All material is licensed under the [Apache License Version 2.0, January 2004](http://www.apache.org/licenses/LICENSE-2.0).

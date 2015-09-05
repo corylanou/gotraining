@@ -61,4 +61,4 @@ http://www.extremetech.com/extreme/188776-how-l1-and-l2-cpu-caches-work-and-why-
 
 [Tests](caching_test.go) ([Go Playground](http://play.golang.org/p/opI__KHj9a))
 ___
-All material is licensed under the [GNU Free Documentation License](https://github.com/gobridge/gotraining/blob/master/LICENSE).
+All material is licensed under the [Apache License Version 2.0, January 2004](http://www.apache.org/licenses/LICENSE-2.0).

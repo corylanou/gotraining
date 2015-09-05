@@ -25,4 +25,4 @@ Declare an array of 5 strings with each element initialized to its zero value. D
 [Template](exercises/template1/template1.go) ([Go Playground](http://play.golang.org/p/ggjjRPzhAB)) | 
 [Answer](exercises/exercise1/exercise1.go) ([Go Playground](http://play.golang.org/p/Pa3mrTCcpB))
 ___
-All material is licensed under the [GNU Free Documentation License](https://github.com/gobridge/gotraining/blob/master/LICENSE).
+All material is licensed under the [Apache License Version 2.0, January 2004](http://www.apache.org/licenses/LICENSE-2.0).
