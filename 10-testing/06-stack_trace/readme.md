@@ -19,4 +19,4 @@ http://www.goinggo.net/2015/01/stack-traces-in-go.html
 
 [Packing](example2/example2.go) ([Go Playground](https://play.golang.org/p/S5ukG0_hXt))
 ___
-All material is licensed under the [GNU Free Documentation License](https://github.com/ArdanStudios/gotraining/blob/master/LICENSE).
+All material is licensed under the [GNU Free Documentation License](https://github.com/gobridge/gotraining/blob/master/LICENSE).

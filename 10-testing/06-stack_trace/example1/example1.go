@@ -1,5 +1,5 @@
 // All material is licensed under the GNU Free Documentation License
-// https://github.com/ArdanStudios/gotraining/blob/master/LICENSE
+// https://github.com/gobridge/gotraining/blob/master/LICENSE
 
 // https://play.golang.org/p/ur6IPVCo9l
 

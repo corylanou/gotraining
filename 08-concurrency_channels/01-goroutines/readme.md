@@ -46,4 +46,4 @@ http://www.goinggo.net/2014/01/concurrency-goroutines-and-gomaxprocs.html
 [Template](exercises/template1/template1.go) ([Go Playground](http://play.golang.org/p/H-h1cbBW3B)) | 
 [Answer](exercises/exercise1/exercise1.go) ([Go Playground](http://play.golang.org/p/mB4QslSNoA))
 ___
-All material is licensed under the [GNU Free Documentation License](https://github.com/ArdanStudios/gotraining/blob/master/LICENSE).
+All material is licensed under the [GNU Free Documentation License](https://github.com/gobridge/gotraining/blob/master/LICENSE).
